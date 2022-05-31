@@ -6,7 +6,9 @@
 
     <groupId>io.github.feikongl</groupId>
     <artifactId>tennel</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
+    <name>tennel</name>
+    <description>a utils sdk</description>
     <packaging>jar</packaging>
     <properties>
         <java.version>1.8</java.version>
